@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/dragonbane-home/","tags":["gardenEntry"]}
+---
+
+# Homepage
+Welcome to the Online Encyclopedia of rules and custom content for Dragonbane RPG, made by Fee League. Currently under construction, this is a resource for personal use and to give to players for making characters. 
+
+## Schools of Magic
+[[Animism\|Animism]]
+[[Elementalism\|Elementalism]]
+[[General Magic\|General Magic]]
+Mentalism
