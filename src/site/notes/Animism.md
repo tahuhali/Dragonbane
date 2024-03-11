@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animism/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/animism/"}
 ---
 
 Magic School focused on the primal energy and order of nature. Traditional Druid and Cleric abilities in healing, special damage to the undead and demons, talking to animals, utility and control spells. Some spells aren't effective indoors or underground, including the only general damage spell.
