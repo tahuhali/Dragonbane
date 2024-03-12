@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/birdsong/"}
 ---
 
+# Birdsong
 You are surrounded by lovely birdsong for one
 stretch of time. The birds give you a **boon to AWARENESS**.
 This trick only works outdoors.
