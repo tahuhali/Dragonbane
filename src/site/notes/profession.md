@@ -12,7 +12,7 @@ Your profession is *not* a set track that determines how you progress, it's your
 - [[Artisan\|Artisan]]
 - [[Bard\|Bard]]
 - [[Fighter\|Fighter]]
-- Hunter
+- [[Hunter\|Hunter]]
 - Knight
 - Mage
 - Mariner
