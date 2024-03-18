@@ -13,11 +13,11 @@ Your profession is *not* a set track that determines how you progress, it's your
 - [[Bard\|Bard]]
 - [[Fighter\|Fighter]]
 - [[Hunter\|Hunter]]
-- Knight
-- Mage
-- Mariner
-- Merchant
-- Scholar
-- Thief
+- [[Knight\|Knight]]
+- [[Mage\|Mage]]
+- [[Mariner\|Mariner]]
+- [[Merchant\|Merchant]]
+- [[Scholar\|Scholar]]
+- [[Thief\|Thief]]
 
 Part of [[Steps to make a Character\|Steps to make a Character]]
