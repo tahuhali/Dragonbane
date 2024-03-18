@@ -10,7 +10,7 @@
 5. Choose or roll your name.
 6. Roll your [[attributes\|attributes]].
 7. Calculate your [[derived ratings\|derived ratings]].
-8. Choose your trained [[skills\|skills]].
+8. Choose your trained [[Skills\|skills]].
 9. Note your heroic ability.
 10. Choose or roll your [[weakness\|weakness]] (optional).
 11. Choose or roll your gear.
