@@ -14,4 +14,4 @@ There are 13 [[Steps to make a Character\|Steps to make a Character]].
 [[General Magic\|General Magic]]
 [[Mentalism\|Mentalism]]
 
-![This is an image](https://wordoflifeedu-my.sharepoint.com/personal/benpowell_wol_ca/Documents/Summer%202024/Camp%20Counsellors%20Needed.jpg)
+![This is an image](https://i.ibb.co/tKP08x9/Camp-Counsellors-Needed.jpg)
