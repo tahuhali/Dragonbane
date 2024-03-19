@@ -14,4 +14,6 @@ There are 13 [[Steps to make a Character\|Steps to make a Character]].
 [[General Magic\|General Magic]]
 [[Mentalism\|Mentalism]]
 
+
+[[Missions Conference\|Missions Conference]]
 ![This is an image](https://i.ibb.co/tKP08x9/Camp-Counsellors-Needed.jpg)
