@@ -14,4 +14,4 @@ We're thankful you're here for our 2024 Missions Conference. Here is some helpfu
 ### Feedback
 Give us feedback at this link:
 
-[<img style="float:left" src="https://i.ibb.co/KbcqrB2/Feedback-Button.png" width="150">](https://www.wol.ca)
+[<img style="float:left" src="https://i.ibb.co/7X24VVw/Feedback-Button.png" width="150">](https://www.wol.ca)
