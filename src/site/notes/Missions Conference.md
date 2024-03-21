@@ -13,8 +13,7 @@ We're thankful you're here for our 2024 Missions Conference. Here is some helpfu
 
 
 How was your experience? Give us feedback at this link:
-
-[<img style="justify-content: center;align-items:center; padding: 10px" src="https://i.ibb.co/7X24VVw/Feedback-Button.png" width="150">](https://www.wol.ca)
+[<img style="display: flex; justify-content: center; padding: 10px" src="https://i.ibb.co/7X24VVw/Feedback-Button.png" width="150">](https://www.wol.ca)
 
 ---
 ## Visit Our Representatives
