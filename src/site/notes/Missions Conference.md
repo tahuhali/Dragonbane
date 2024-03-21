@@ -11,13 +11,14 @@ We're thankful you're here for our 2024 Missions Conference. Here is some helpfu
 ## Schedule
 ![Schedule](https://i.ibb.co/qr3sgmg/Screenshot-2024-03-21-095908.jpg)
 
-### Feedback
-Give us feedback at this link:
+
+How was your experience? Give us feedback at this link:
 
 [<img style="float:left" src="https://i.ibb.co/7X24VVw/Feedback-Button.png" width="150">](https://www.wol.ca)
 
 
-# Visit Our Representatives
+
+## Visit Our Representatives
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
