@@ -6,9 +6,9 @@
 # Welcome to Word of Life Owen Sound
 We're thankful you're here for our 2024 Missions Conference. Here is some helpful information:
 
-### Schedule
-- Thing One
-- Thing Two
+## Schedule
+![Schedule](https://i.ibb.co/qr3sgmg/Screenshot-2024-03-21-095908.jpg)
+
 ### Feedback
 Give us feedback at this link:
 
