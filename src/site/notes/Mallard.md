@@ -25,7 +25,7 @@ Mallards tend to have a choleric temper. You can
 activate this ability (no action) when making
 a skill roll and get a boon to the roll. You also
 become Angry, if you’re not already. This ability
-cannot be used for rolls against INT or INTbased
+cannot be used for rolls against INT or INT based
 skills.
 
 # Innate Ability: WEBBED FEET
