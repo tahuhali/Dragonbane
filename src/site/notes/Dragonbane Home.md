@@ -13,3 +13,6 @@ There are 13 [[Steps to make a Character\|Steps to make a Character]].
 [[Elementalism\|Elementalism]]
 [[General Magic\|General Magic]]
 [[Mentalism\|Mentalism]]
+
+## Gear and Items
+look at the [[gear\|gear]] your character can start with or obtain.
