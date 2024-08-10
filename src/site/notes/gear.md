@@ -8,4 +8,4 @@ This page is an index of all the different categories of armor, weapons and item
 
 ### Categories
 - [[Armor and Helmets\|Armor and Helmets]]
-- [[Melee Weapons\|Melee Weapons]]
+- [[Melee Weapons\|Melee Weapons]] (including shields)
